@@ -6,6 +6,17 @@ This is a small game that I made around 2019. I've long since abandoned it but d
 
 # Screenshots
 
+![Just the character standing around in the world]()
+
+![What was gonna be the inventory system]()
+
+![A small selection menu for the blocks]()
+
+![Placing and breaking blocks in the world]()
+
+![A zoom out showing the seperate chunks in the world]()
+
+
 # About
 A small 2D top-down sandbox game written in C# and using [Monogame](https://www.monogame.net/). there's a WIP inventory system and you can place and destroy blocks in the world.
 
@@ -20,4 +31,4 @@ World generation is created using [Open-Simplex noise](https://gist.github.com/K
 All the textures in the game other than Lucas from the Mother series were made by myself
 
 # Inspiration
-The Game was inspired by the [Mystery Dungeon Series](https://en.wikipedia.org/wiki/Mystery_Dungeon) and [Factorio](https://www.factorio.com/). You can see this in the [design document in the git repo](Collector/Designdoc/Game%20Goals%20(GG).pdf)
+The Game was inspired by the [Mystery Dungeon Series](https://en.wikipedia.org/wiki/Mystery_Dungeon) and [Factorio](https://www.factorio.com/). You can see this in the [design document in the git repo](Collector/Documentation/Game%20Goals%20(GG).pdf)
