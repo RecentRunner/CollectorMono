@@ -20,4 +20,4 @@ World generation is created using [Open-Simplex noise](https://gist.github.com/K
 All the textures in the game other than Lucas from the Mother series were made by myself
 
 # Inspiration
-The Game was inspired by the [Mystery Dungeon Series](https://en.wikipedia.org/wiki/Mystery_Dungeon) and [Factorio](https://www.factorio.com/). You can see this in the design document in the git repo
+The Game was inspired by the [Mystery Dungeon Series](https://en.wikipedia.org/wiki/Mystery_Dungeon) and [Factorio](https://www.factorio.com/). You can see this in the [design document in the git repo](Collector/Designdoc/Game%20Goals%20(GG).pdf)
