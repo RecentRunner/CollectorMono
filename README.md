@@ -2,7 +2,7 @@
 
 This is a small game that I made around 2019. I've long since abandoned it but decided to update the information surrounding it since it's one of the few projects I've been happy with.
 
-# Video Explaination
+# Video Explaination(Still working on it)
 
 [![CollectorMono Showcase](http://img.youtube.com/vi/7Wo2k5BwZF8/0.jpg)](https://youtu.be/7Wo2k5BwZF8 "CollectorMono Showcase")
 
