@@ -4,7 +4,7 @@ This is a small game that I made around 2019. I've long since abandoned it but d
 
 # Video Explaination
 
-[![CollectorMono Showcase](http://img.youtube.com/vi/7Wo2k5BwZF8/0.jpg)](https://youtu.be/7Wo2k5BwZF8 "CollectorMono Showcase")
+[![CollectorMono Showcase](http://img.youtube.com/vi/asVr2u7_mnA/0.jpg)](https://youtu.be/asVr2u7_mnA "CollectorMono Showcase")
 
 # Screenshots
 ## Just the character standing around in the world
