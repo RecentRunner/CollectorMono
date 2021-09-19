@@ -5,16 +5,24 @@ This is a small game that I made around 2019. I've long since abandoned it but d
 # Video Explaination
 
 # Screenshots
+## Just the character standing around in the world
+![](https://raw.githubusercontent.com/Solargale/CollectorMono/master/Collector/Documentation/2021-09-18_17-50.png)
 
-![Just the character standing around in the world]()
+## What was gonna be the inventory system
+![](https://raw.githubusercontent.com/Solargale/CollectorMono/master/Collector/Documentation/2021-09-18_17-55.png)
 
-![What was gonna be the inventory system]()
+## A small selection menu for the blocks
 
-![A small selection menu for the blocks]()
+![](https://raw.githubusercontent.com/Solargale/CollectorMono/master/Collector/Documentation/2021-09-18_17-55_1.png)
 
-![Placing and breaking blocks in the world]()
 
-![A zoom out showing the seperate chunks in the world]()
+## Placing and breaking blocks in the world
+
+![](https://raw.githubusercontent.com/Solargale/CollectorMono/master/Collector/Documentation/2021-09-18_17-55_2.png)
+
+## A zoom out showing the seperate chunks in the world
+
+![](https://raw.githubusercontent.com/Solargale/CollectorMono/master/Collector/Documentation/2021-09-18_17-56.png)
 
 
 # About
