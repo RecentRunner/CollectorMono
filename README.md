@@ -2,7 +2,7 @@
 
 This is a small game that I made around 2019. I've long since abandoned it but decided to update the information surrounding it since it's one of the few projects I've been happy with.
 
-# Video Explaination
+# Video Explaination(Still working on it)
 
 # Screenshots
 ## Just the character standing around in the world
